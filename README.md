@@ -1,8 +1,8 @@
 # HTML
 
-2. HTML5 Tag
-3. CSS3 Selector
-4. CSS3 Style Property
+2. HTML5 Tag (Complete)
+3. CSS3 Selector (Complete)
+4. CSS3 Style Property (Currently working on...)
 5. Web Page Layout
 6. Smartphone Layout
 7. Tablet PC Layout
